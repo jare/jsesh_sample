@@ -38,7 +38,9 @@ Engraving hieroglyph: text/sample5.png
 
 this means that in the text directory there are created the new PNG images 
 
+## License 
 
+JSesh sample is free software/open source, and is distributed under the BSD license. It contains third-party code in lib director, libraries from JSesh 
 
 ## References
 
