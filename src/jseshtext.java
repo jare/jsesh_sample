@@ -27,7 +27,7 @@ public class jseshtext {
         
         // Override JSesh's max size parameter to something absurdly huge
         // so that images don't crop arbitrarily at 2000 pixels wide
-        // - christiancasey 04-03-2022
+        // - christiancasey 2022-03-04
         drawing.setMaxSize(500000,10000); 
         
         // Change the scale, choosing the cadrat height in pixels.
